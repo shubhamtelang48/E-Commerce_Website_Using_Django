@@ -5,6 +5,11 @@
 ## Aim of this Project
 #### The aims of this course is to:
 
-- TO learn the Django framework
+- To learn the Django framework
 - To learn how to build, test and deploy a Django application
 - To utilize technical skills into practicle experience
+
+## Prerequisites
+- Install Python onto your PC/Laptop
+- Optional - Visual Studio Code Editor or PyCharm 
+- Projects use Windows OS (you can use other OS but it might require additional steps not detailed in the tutorials)
