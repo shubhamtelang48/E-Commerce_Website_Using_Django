@@ -10,6 +10,6 @@
 - To utilize technical skills into practicle experience.
 
 ## Prerequisites
-- Install Python onto your PC/Laptop
-- Optional - Visual Studio Code Editor or PyCharm 
+- Install Python onto your PC/Laptop.
+- Optional - Visual Studio Code Editor or PyCharm.
 - Projects use Windows OS (you can use other OS but it might require additional steps not detailed in the tutorials)
